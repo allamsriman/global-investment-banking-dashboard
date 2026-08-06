@@ -1,6 +1,6 @@
 #  Global Investment Banking Operations Dashboard
 
-![Dashboard Preview](dashboardd.png)
+![Dashboard Preview](global-investment-banking-dashboard.png)
 
 ---
 
